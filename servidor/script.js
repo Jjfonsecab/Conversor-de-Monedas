@@ -58,3 +58,4 @@ function convert(currency1, currency2, value) {
         console.error(error);
       });
   }
+           
